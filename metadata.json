@@ -1,0 +1,5 @@
+{
+  "name": "Pocket Operator Clone",
+  "description": "A minimalist, Teenage Engineering-inspired 16-step sequencer with synthesized drums, Web Audio API integration, and a playful, tactile interface.",
+  "requestFramePermissions": []
+}
